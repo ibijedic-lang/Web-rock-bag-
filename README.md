@@ -26,6 +26,11 @@ js/main.js      — mobile nav, scroll-reveal, nav scroll-spy
 
 1. **Hero** — value proposition, key stats (0.5–12 t sizes, 100+ bags/day, 50–100 yr HDPE life)
 2. **Product** — what a rock bag filter unit is; PE vs HDPE material comparison
+2b. **Our Design** (`#design`) — differentiation vs conventional recycled-PET filter units
+    (competitors such as Ridgeway RockBags and Bluemont distribute Kyowa units knitted from
+    100% recycled PET): virgin HDPE yarn with in-yarn UV stabiliser + carbon black, two
+    layouts (Standard single-ring and S-Type heavy-lift), comparison table, and a
+    certification strip for **KIWA, BTTG and DNV**
 3. **Sizes & specs** — visual size scale and specification table (0.5–12 tonne)
 4. **Applications** — 9 application cards (bridge piers, offshore wind, cables & pipelines, coastal, flood response, culverts, ports, mangroves, temporary works)
 5. **Why rock bags** — advantages vs concrete/gabions + engineering support panel
